@@ -20,6 +20,9 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\fariadasilvad\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2774830c-e08f-4695-afd2-6b6f08849a49" name="Default Changelist" comment="" />
@@ -27,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606688643001</updated>
-      <workItem from="1606688644162" duration="1672000" />
+      <workItem from="1606688644162" duration="2603000" />
     </task>
     <servers />
   </component>
@@ -35,10 +38,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="220" key="SettingsEditor" timestamp="1606693016428">
+    <state x="488" y="220" key="SettingsEditor" timestamp="1606695431695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="488" y="220" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606693016428" />
+    <state x="488" y="220" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606695431695" />
     <state x="818" y="305" key="ftp.server.browser" timestamp="1606689260140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
