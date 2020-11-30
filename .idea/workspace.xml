@@ -30,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606688643001</updated>
-      <workItem from="1606688644162" duration="2603000" />
+      <workItem from="1606688644162" duration="8766000" />
     </task>
     <servers />
   </component>
@@ -46,5 +46,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="818" y="305" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1606689260140" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606758062180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1020.-1080.1920.1040/-900.-1080.1920.1040@0.0.1920.1040" timestamp="1606758062180" />
   </component>
 </project>
